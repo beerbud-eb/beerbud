@@ -1,0 +1,37 @@
+	body {font-family:helvetica, sans-serif;
+	background-color:#c1cc89;
+	margin:10px;
+	margin-left:30px;}
+	
+	#logo {position:absolute;
+	top:10px;
+	right:10px;}
+	
+	nav ul {list-style-type:none;
+		width:100%;
+		margin:0;
+		padding:0;
+		overflow:hidden;
+		background-color:rgb(73, 56, 41);}
+	
+	nav ul li {float:left;
+		width:23%;}
+	
+	nav ul li a {display:block;
+		width:100%;
+		color:white;
+		text-align:center;
+		text-decoration:none;}
+		
+	a.menu-link:hover {background-color:rgb(64, 79, 36);}
+	a.menu-link:link, 
+	a.menu-link:visited, 
+	a.menu-link:focus,
+	a.menu-link:active{color:white;
+	text-decoration:none;}
+	
+	#home {width:8%;
+	background-color:rgb(102, 141, 60);
+	color:white;}
+
+	.title {color:rgb(64, 79, 36);}
